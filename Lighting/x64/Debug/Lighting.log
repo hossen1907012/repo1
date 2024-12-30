@@ -1,0 +1,73 @@
+﻿  main.cpp
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\sphere.h(175,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\sphere.h(176,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\sphere.h(178,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\cone.h(97,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\cone.h(139,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\cylinder.h(110,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\cylinder.h(181,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\cylinder.h(184,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\hemisphere.h(178,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\hemisphere.h(179,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\hemisphere.h(181,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(122,12): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(119,13): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(119,9): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(119,5): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(575,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(578,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(579,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(580,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(581,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(582,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(592,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(592,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(592,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(603,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(603,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(603,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(614,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(625,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(636,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(636,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(636,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(647,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(647,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(647,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(714,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(719,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(724,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(729,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(734,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(739,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(924,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(924,97): warning C4101: 'modelCentered': unreferenced local variable
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(924,77): warning C4101: 'scaleMatrix': unreferenced local variable
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(924,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(924,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(1372,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(1372,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(1372,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  Lighting.vcxproj -> D:\4-2\Lab\Graphics\Project\own - Copy\OpenGL 3.3 - Lighting (Part1+2+3)\x64\Debug\Lighting.exe
